@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1478721879 source:d:\c++\who wants to be a millionaire\header.cpp
+	<bits/stdc++.h>
+
+1478729128 source:d:\c++\who wants to be a millionaire\main.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+	"header.h"
+	<conio.h>
+	<time.h>
+	<algorithm>
+	<stdlib.h>
+
+1478719010 d:\c++\who wants to be a millionaire\header.h
+	<bits/stdc++.h>
+
+1478733682 source:d:\c++\who wants to be a millionaire my code\header.cpp
+	<bits/stdc++.h>
+
+1478732541 source:d:\c++\who wants to be a millionaire my code\main.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+	"header.h"
+	<conio.h>
+	<time.h>
+	<algorithm>
+	<stdlib.h>
+
+1478719010 d:\c++\who wants to be a millionaire my code\header.h
+	<bits/stdc++.h>
+
+1478734215 source:c:\users\sakib\desktop\project\who wants to be a millionaire my code\header.cpp
+	<bits/stdc++.h>
+
+1478734176 source:c:\users\sakib\desktop\project\who wants to be a millionaire my code\main.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+	"header.h"
+	<conio.h>
+	<time.h>
+	<algorithm>
+	<stdlib.h>
+
+1478734215 c:\users\sakib\desktop\project\who wants to be a millionaire my code\header.h
+	<bits/stdc++.h>
+
